@@ -1,0 +1,13 @@
+Searching 28 files for "googleapis.com"
+
+~/Downloads/explorer/app/index.html:
+   40  <!--Libs-->
+   41  
+   42:   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
+   43    <script src="bower_components/angular-bootstrap/ui-bootstrap.min.js"></script>
+   44    <script src="bower_components/angular-route/angular-route.js"></script>
+   45:   <script src="https://cdn.staticfile.org/jquery/1.11.3/jquery.min.js"></script>
+   46    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+   47  <!--Core-->
+
+2 matches in 1 file
